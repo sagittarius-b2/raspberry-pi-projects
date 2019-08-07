@@ -4,4 +4,5 @@ Raspberry Pi projekti su deo inicijative organizaije [Sagittarius B2](https://gi
 
 ## Sadržaj
 * [Uvod o Raspberry Pi fondaciji i računaru](RaspberryPi/RaspberryPi.md)
+* [Prvo pokretanje i sklapanje Raspberry Pi računara](PrvoPokretanje/PrvoPokretanje.md)
 * [Uželeli ste se igara sa svoje stare konzole? Tu je RetroPie da se podsetite starih hitova i otkrijete nove](RetroPie/RetroPie.md)
